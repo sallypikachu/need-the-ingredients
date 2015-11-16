@@ -1,0 +1,8 @@
+---
+title: "Need the Ingredients"
+type: "challenge"
+description: "Use Telnet to understand POST requests"
+visibility: "assign"
+tags: "evening-exercise, http"
+ignore:
+- "need-the-ingredients.md"
